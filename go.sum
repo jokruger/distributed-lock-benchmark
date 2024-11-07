@@ -15,6 +15,10 @@ github.com/jokruger/nats-mutex v0.0.0-20241106164804-9fa84b2724d1 h1:/YlIP+O2pEB
 github.com/jokruger/nats-mutex v0.0.0-20241106164804-9fa84b2724d1/go.mod h1:Ei1+Ix9NCX7TS61S9V31GzUjrOxhKAQJO4RACEWyL0Y=
 github.com/jokruger/pgx-mutex v0.0.0-20241106181415-60578d0e532d h1:5FPq6Lh/gCRYiJtPI5FR7gWnxNBiZuQoXP3/EaM/p30=
 github.com/jokruger/pgx-mutex v0.0.0-20241106181415-60578d0e532d/go.mod h1:s6lOX591HzpcxJBAghU9aw2f2NRqBqg+LM2xogKBu4Y=
+github.com/jokruger/pgx-mutex v0.0.0-20241107080720-11a4cd1d7f16 h1:1uZGOjuRpe4Hdavk13pi9g5ifnEB5z0FiOso3yxfZFY=
+github.com/jokruger/pgx-mutex v0.0.0-20241107080720-11a4cd1d7f16/go.mod h1:s6lOX591HzpcxJBAghU9aw2f2NRqBqg+LM2xogKBu4Y=
+github.com/jokruger/pgx-mutex v1.0.0 h1:tR8KEzvYQ9uTLheTDhuDqI2Qhlk2rVIGJB8pi1TkwFY=
+github.com/jokruger/pgx-mutex v1.0.0/go.mod h1:s6lOX591HzpcxJBAghU9aw2f2NRqBqg+LM2xogKBu4Y=
 github.com/klauspost/compress v1.17.2 h1:RlWWUY/Dr4fL8qk9YG7DTZ7PDgME2V4csBXA8L/ixi4=
 github.com/klauspost/compress v1.17.2/go.mod h1:ntbaceVETuRiXiv4DpjP66DpAtAGkEQskQzEyD//IeE=
 github.com/nats-io/nats.go v1.37.0 h1:07rauXbVnnJvv1gfIyghFEo6lUcYRY0WXc3x7x0vUxE=
