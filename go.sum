@@ -13,6 +13,8 @@ github.com/jackc/puddle/v2 v2.2.2 h1:PR8nw+E/1w0GLuRFSmiioY6UooMp6KJv0/61nB7icHo
 github.com/jackc/puddle/v2 v2.2.2/go.mod h1:vriiEXHvEE654aYKXXjOvZM39qJ0q+azkZFrfEOc3H4=
 github.com/jokruger/nats-mutex v0.0.0-20241106164804-9fa84b2724d1 h1:/YlIP+O2pEB40Ys6PgoRxUDIzH7G1j9OBTIuJMzQakA=
 github.com/jokruger/nats-mutex v0.0.0-20241106164804-9fa84b2724d1/go.mod h1:Ei1+Ix9NCX7TS61S9V31GzUjrOxhKAQJO4RACEWyL0Y=
+github.com/jokruger/nats-mutex v1.0.1 h1:TcDZM0dn5veqokLR3hzI1gl73FjOYGd8gihYrFCodFk=
+github.com/jokruger/nats-mutex v1.0.1/go.mod h1:Ei1+Ix9NCX7TS61S9V31GzUjrOxhKAQJO4RACEWyL0Y=
 github.com/jokruger/pgx-mutex v0.0.0-20241106181415-60578d0e532d h1:5FPq6Lh/gCRYiJtPI5FR7gWnxNBiZuQoXP3/EaM/p30=
 github.com/jokruger/pgx-mutex v0.0.0-20241106181415-60578d0e532d/go.mod h1:s6lOX591HzpcxJBAghU9aw2f2NRqBqg+LM2xogKBu4Y=
 github.com/jokruger/pgx-mutex v0.0.0-20241107080720-11a4cd1d7f16 h1:1uZGOjuRpe4Hdavk13pi9g5ifnEB5z0FiOso3yxfZFY=

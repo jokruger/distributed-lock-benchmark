@@ -23,7 +23,7 @@ func main() {
 	case "nats":
 		m, err := natsmutex.NewSyncMutex(
 			natsmutex.WithUrl("nats://localhost:4222"),
-			natsmutex.WithKey("test"),
+			natsmutex.WithResourceID("test"),
 		)
 		if err != nil {
 			fmt.Println("Error creating mutex", err)
