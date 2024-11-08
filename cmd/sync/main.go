@@ -24,6 +24,7 @@ func main() {
 		m, err := natsmutex.NewSyncMutex(
 			natsmutex.WithUrl("nats://localhost:4222"),
 			natsmutex.WithResourceID("test"),
+			natsmutex.WithOwnershipCheck(false),
 		)
 		if err != nil {
 			fmt.Println("Error creating mutex", err)

@@ -2,7 +2,7 @@ module github.com/jokruger/distributed-lock-benchmark
 
 go 1.23
 
-require github.com/jokruger/nats-mutex v1.0.1
+require github.com/jokruger/nats-mutex v1.0.2
 
 require (
 	github.com/google/uuid v1.6.0 // indirect
